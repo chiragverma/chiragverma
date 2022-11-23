@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chirag - Senior Test Automation Engineer: Cypress | WebdriverIO | Appium | Jmeter | XCUITest | Docker | CI/CD | Jenkins
+- 👋 Hi, I’m Chirag - Senior Full Stack QA Engineer : Cypress | Playwright | WebdriverIO | Appium | K6 | Jmeter | XCUITest | Docker | CI/CD | Jenkins
 - 👀 I’m interested in Cypress, Playwright, Appium and WebdriverIO. I love automating back-end, front-end, APIs, native Mobile Apps, performance tests and almost everything.
 - 🌱 I’m currently exploring Web3 and Blockchain
 - 📫 You can reach me at - https://www.linkedin.com/in/auto19/
