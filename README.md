@@ -1,4 +1,4 @@
-👋 Hi, I’m Chirag - Senior Full Stack QA Engineer : Cypress | Appium | K6 | Jmeter | XCUITest | Docker | CI/CD | Jenkins
+#👋 Hi, I’m Chirag - Senior Full Stack QA Engineer : Cypress | Appium | K6 | Jmeter | XCUITest | Docker | CI/CD | Jenkins
 💼 8+ years of QA Development Experience.
 💪 Strong understanding of SDLC and execution of projects in Agile, Waterfall Hybrid environments.
 ❤️ I’m interested in Cypress, Playwright, Appium and WebdriverIO. I love automating back-end, front-end, APIs, native Mobile Apps, performance tests and almost everything.
