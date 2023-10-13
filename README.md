@@ -7,5 +7,4 @@
 - 📈 Experience in using both performance and security testing tools including JMeter, Blazemeter and SOAPUI respectively.
 - 👨‍💻 Developed and maintained automated CI/CD pipelines for code deployment using Jenkins and TeamCity.
 - 🌱 Experienced in branching, tagging and maintaining the version across the Environments using SCM tools like GitLab, GitHub.
-- 🤓 Always learning about new technologies, best QA practice and frameworks with the help of eLearning sites such as Udemy and Lynda.
 - 🚀 I’m currently exploring Web3 and Blockchain.
